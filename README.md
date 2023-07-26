@@ -1,8 +1,6 @@
 # icms
 Tabela de ICMS interno e interestadual em javascript
 
-[![Build Status](https://drone.io/github.com/brasil-js/icms/status.png)](https://drone.io/github.com/brasil-js/icms/latest)
-
 ### Instalação
 
 ```bash
@@ -20,8 +18,9 @@ console.log(aliquotaDfGo); // 12
 console.log(aliquotaInternaDf); // 18
 ```
 
-### Atenção
+### Atualizado para 2023 a partir da tabela:
 
-A alíquota interna do RJ era 19% considerando 1% de FCP (Fundo de combate a pobreza). Preferi deixar a alíquota como 18% já que a partir de 01/01/2016 a FCP será destacada na NF-e.
+![image](https://github.com/rbravo/icms/assets/2054303/7358e2bf-8b86-4002-9853-8ffb568bedfc)
+
 
 ### Licença MIT
