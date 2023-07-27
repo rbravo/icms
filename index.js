@@ -8,4 +8,4 @@ const icms = (ufDeOrigem, ufDeDestino) => {
     return matriz[ufDeOrigem] && matriz[ufDeOrigem][ufDeDestino];
 }
 
-window.ICMS = icms;
+export default icms;

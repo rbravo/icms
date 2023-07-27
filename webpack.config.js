@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './index.js', // Replace this with the entry point of your app
+  entry: './indexWeb.js', // Replace this with the entry point of your app
   output: {
     filename: 'icms.js',
     path: path.resolve(__dirname, 'dist'), // Replace 'dist' with your desired output directory
