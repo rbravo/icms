@@ -1,10 +1,11 @@
 {
   "name": "icms",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Tabela de ICMS interno e interestadual em javascript",
   "main": "index.js",
   "scripts": {
-    "test": "nodeunit tests/tests.js"
+    "test": "nodeunit tests/tests.js",
+    "build": "npx webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,11 @@
   },
   "homepage": "https://github.com/brasil-js/icms",
   "devDependencies": {
-    "nodeunit": "^0.9.1"
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-loader": "^9.1.3",
+    "nodeunit": "^0.9.1",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
   }
 }

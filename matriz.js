@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     ac: {
         ac: 19,
         al: 12,
