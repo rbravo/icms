@@ -124,7 +124,7 @@ export default {
         al: 12,
         am: 12,
         ap: 12,
-        ba: 19,
+        ba: 20.5,
         ce: 12,
         df: 12,
         es: 12,
@@ -155,7 +155,7 @@ export default {
         am: 12,
         ap: 12,
         ba: 12,
-        ce: 18,
+        ce: 20,
         df: 12,
         es: 12,
         go: 12,
@@ -186,7 +186,7 @@ export default {
         ap: 12,
         ba: 12,
         ce: 12,
-        df: 18, // LEI N° 5.548, DE 15 DE OUTUBRO DE 2015
+        df: 20, // LEI N° 5.548, DE 15 DE OUTUBRO DE 2015
         es: 12,
         go: 12,
         ma: 12,
@@ -248,7 +248,7 @@ export default {
         ce: 12,
         df: 12,
         es: 12,
-        go: 17,
+        go: 19,
         ma: 12,
         mt: 12,
         ms: 12,
@@ -279,7 +279,7 @@ export default {
         df: 12,
         es: 12,
         go: 12,
-        ma: 20, // LEI N° 10.329, DE 30 DE SETEMBRO DE 2015
+        ma: 22, // LEI N° 10.329, DE 30 DE SETEMBRO DE 2015
         mt: 12,
         ms: 12,
         mg: 12,
@@ -434,7 +434,7 @@ export default {
         ms: 12,
         mg: 12,
         pa: 12,
-        pb: 18, // LEI N° 10.507, DE 18 DE SETEMBRO DE 2015
+        pb: 20, // LEI N° 10.507, DE 18 DE SETEMBRO DE 2015
         pr: 12,
         pe: 12,
         pi: 12,
@@ -465,7 +465,7 @@ export default {
         mg: 12,
         pa: 7,
         pb: 7,
-        pr: 19,
+        pr: 19.5,
         pe: 7,
         pi: 7,
         rn: 7,
@@ -496,7 +496,7 @@ export default {
         pa: 12,
         pb: 12,
         pr: 12,
-        pe: 18, // LEI Nº 10.259, DE 27 DE JANEIRO DE 1989
+        pe: 20.5, // LEI Nº 10.259, DE 27 DE JANEIRO DE 1989
         pi: 12,
         rn: 12,
         rs: 12,
@@ -558,7 +558,7 @@ export default {
         pr: 12,
         pe: 12,
         pi: 12,
-        rn: 20, // LEI N° 9.991, DE 29 DE OUTUBRO DE 2015
+        rn: 18, // LEI N° 9.991, DE 29 DE OUTUBRO DE 2015
         rs: 12,
         rj: 12,
         ro: 12,
@@ -620,7 +620,7 @@ export default {
         pi: 7,
         rn: 7,
         rs: 12,
-        rj: 20, // A alíquota do ICMS no RJ era 19% considerando 1% de FCP.
+        rj: 22, // A alíquota do ICMS no RJ era 19% considerando 1% de FCP.
         ro: 7,
         rr: 7,
         sc: 12,
@@ -651,7 +651,7 @@ export default {
         rn: 12,
         rs: 12,
         rj: 12,
-        ro: 17.5, // LEI Nº 3699, DE 22 DE DEZEMBRO DE 2015
+        ro: 19.5, // LEI Nº 3699, DE 22 DE DEZEMBRO DE 2015
         rr: 12,
         sc: 12,
         sp: 12,
@@ -775,7 +775,7 @@ export default {
         rr: 12,
         sc: 12,
         sp: 12,
-        se: 22, // LEI N° 8.039, DE 01 DE OUTUBRO DE 2015
+        se: 19, // LEI N° 8.039, DE 01 DE OUTUBRO DE 2015
         to: 12
     },
 
